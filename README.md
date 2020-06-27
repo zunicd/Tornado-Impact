@@ -28,7 +28,7 @@ To see the maps in the notebook you will need to rerun the notebook, so I will d
 
 ##### Annual Average of Tornadoes per State (1996 - 2019)
 
-![](Images/Avg. Annual Tornadoes per State.png)
+![](Images/Avg_Annual_Tornadoes_per_State.png)
 
 
 
@@ -40,19 +40,19 @@ To see the maps in the notebook you will need to rerun the notebook, so I will d
 
 ##### Total Tornado Fatalities per State (1996 - 2019)
 
-![](Images/Total Tornado Fatalities per State.png)
+![](Images/Total_Tornado_Fatalities_per_State.png)
 
 
 
 ##### Tornado Heatmap for Total Count (1996 - 2019)
 
-![](Images/Tornadoes Heatmap.png)
+![](Images/Tornadoes_Heatmap.png)
 
 
 
 ##### Most Common F/EF5 Locations
 
-![](Images/F5 and EF5 Locations.png)
+![](Images/F5_and_EF5_Locations.png)
 
 
 
