@@ -34,7 +34,7 @@ To see the maps in the notebook you will need to rerun the notebook, so I will d
 
 ##### Annual Average of Tornadoes per 10K sq mi per State (1996 - 2019)
 
-![](Images/Avg. Annual Tornadeos per 10K sq mi.png)
+![](Images/Avg_Annual_Tornadeos_per_10K_sq_mi.png)
 
 
 
