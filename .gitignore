@@ -116,3 +116,6 @@ dmypy.json
 
 #DS_Store
 .DS_Store
+
+# API keys
+config.py
