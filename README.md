@@ -4,7 +4,7 @@
 
 ### Objective
 
-We are all interested in weather data, but more specifically interested in the tornado events that occur both locally and nationally.  Our project is to look at the geographic distribution of tornado events in the United States, with focus on the various “measurements of impact”, from the loss of life to the financial ramifications, and explore how the geographic distribution and measurements of impact for Indiana measure up against the national results
+We are all interested in weather data, but more specifically interested in the tornado events that occur both locally and nationally.  Our project is to look at the geographic distribution of tornado events in the United States, with focus on the various “measurements of impact”, from the loss of life to the financial ramifications, and explore how the geographic distribution and measurements of impact for Indiana measure up against the national results.
 
 This was a team project and I authored the notebook  *Tornado Impact - Data Exploration and Cleanup.ipynb*. In the notebook *Tornado Impact - Data Analysis.ipynb* I wrote all first chapters before "EF and F Scale Analysis".
 
@@ -105,5 +105,10 @@ Due to size limits, 24 input files are zipped to 5 files.
   - DAMAGE
 
   
+  
+  #### Team Members:
+  
+  - Damir Zunic ([zunicd@yahoo.com](mailto:zunicd@yahoo.com))
+  - Andrea Johnson ([asjohnson099@gmail.com](mailto:asjohnson099@gmail.com))
+  - Lindsey Downs (ldowns@butler.edu)
 
-2. 
