@@ -14,7 +14,7 @@ In this research we are using publicly available [NCEI Storm Events Database](ht
 
 In our research we will be using only "details" files from 1996 to 2019.
 
-We kept only data for tornado events and reduced the number of features form 51 to 11. The cleanup process is described in detail in the notebook *Tornado Impact - Data Exploration and Cleanup.ipynb*. The output file was save in the csv format: *Outputs/Tornado_heatmap_cities.csv*.
+We kept only data for tornado events and reduced the number of features from 51 to 11. The cleanup process is described in detail in the notebook *Tornado Impact - Data Exploration and Cleanup.ipynb*. The output file was save in the csv format: *Outputs/Tornado_heatmap_cities.csv*.
 
 
 
@@ -108,7 +108,16 @@ Due to size limits, 24 input files are zipped to 5 files.
   
   #### Team Members:
   
-  - Damir Zunic ([zunicd@yahoo.com](mailto:zunicd@yahoo.com))
-  - Andrea Johnson ([asjohnson099@gmail.com](mailto:asjohnson099@gmail.com))
-  - Lindsey Downs (ldowns@butler.edu)
+  - Damir Zunic ([zunicd@yahoo.com](mailto:zunicd@yahoo.com)):
+    - notebook  *Tornado Impact - Data Exploration and Cleanup.ipynb*
+    - notebook *Tornado Impact - Data Analysis.ipynb*:
+      - Introduction
+      - Choropleth maps with GeoJSON
+      - Additional insights from Tornado Data
+  - Andrea Johnson ([asjohnson099@gmail.com](mailto:asjohnson099@gmail.com)):
+    - notebook *Tornado Impact - Data Analysis.ipynb*:
+      - Damage Stats and FEMA Data
+  - Lindsey Downs (ldowns@butler.edu):
+    - notebook *Tornado Impact - Data Analysis.ipynb*:
+      - EF and F Scale Analysis
 
