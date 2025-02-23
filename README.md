@@ -1,6 +1,6 @@
 # Tornado Impact - Data Analysis
 
-<u>**Presentation**</u> can be found on this [link](https://docs.google.com/presentation/d/e/2PACX-1vTnWsqrjajn_hchmFDDNfVXW6Oju_Vb7o7Ns5vPGbt1g4PH9L3FqS46hh5lL31y751TYls-jvZIYXH4/pub?start=false&loop=false&delayms=3000).
+<u>**Presentation**</u> can be found on this [link](https://docs.google.com/presentation/d/1u8G5r97uOqN3bWcc0y8v9-K7BwnoQTqcsovgodx5tXQ/edit?usp=sharing).
 
 ### Objective
 
